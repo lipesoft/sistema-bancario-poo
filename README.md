@@ -20,7 +20,7 @@ Git (opcional, para clonar)
 ### Passo a Passo
 1. Clone o repositório (ou baixe os arquivos)
 
-git clone https://github.com/seu-usuario/sistema-bancario-poo.git
+git clone https://github.com/lipesoft/sistema-bancario-poo.git
 
 2. Crie e ative um ambiente virtual (recomendado)
 Windows (PowerShell/cmd):
